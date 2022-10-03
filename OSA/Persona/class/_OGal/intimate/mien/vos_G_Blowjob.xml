@@ -1,0 +1,29 @@
+<classdata id="vos_G_Blowjob">
+<montage>
+	<voice>	
+		<mien fo="ivos" ty="effort" sy="1" per="85"/>
+		<mien fo="ivos" ty="subtle" sy="0" per="90"/>
+		<mien fo="ivos" ty="subtle" sy="1" per="95"/>
+		<mien fo="ivos" ty="medium" sy="0" per="99"/>
+		<mien fo="ivos" ty="loud" sy="0" per="100"/>		
+	</voice>
+</montage>  
+<montage>
+	<voice>	
+		<mien fo="ivos" ty="effort" sy="1" per="85"/>
+		<mien fo="ivos" ty="subtle" sy="0" per="90"/>
+		<mien fo="ivos" ty="subtle" sy="1" per="95"/>
+		<mien fo="ivos" ty="medium" sy="0" per="99"/>
+		<mien fo="ivos" ty="loud" sy="0" per="100"/>		
+	</voice>
+</montage>  
+<montage>
+	<voice>	
+		<mien fo="ivos" ty="effort" sy="1" per="85"/>
+		<mien fo="ivos" ty="subtle" sy="0" per="90"/>
+		<mien fo="ivos" ty="subtle" sy="1" per="95"/>
+		<mien fo="ivos" ty="medium" sy="0" per="99"/>
+		<mien fo="ivos" ty="loud" sy="0" per="100"/>		
+	</voice>
+</montage>                     
+</classdata>

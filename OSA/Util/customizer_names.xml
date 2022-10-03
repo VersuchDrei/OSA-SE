@@ -1,0 +1,153 @@
+﻿<parse singlesGroupRaceFirst="1"/>
+<default autoTitleP="" titleP="" firstShortP="" addLastP="" lastShortP="" middleP="" middleShortP=""/>
+
+
+
+<genericNPC v="bandit" autoTitleId="bandit"/>
+
+<combos>
+<type1 format="The $# of $#"><var id="comboVar1"/><var id="comboVar2"/></type1>
+</combos>
+
+<map>
+<bothGenders>
+<allRace>
+		<first v="Svetna"/>
+		<first v="Riki"/>
+
+		<title v="$combo" id="type1"/>
+
+		<comboVar1 v="Blade"/>
+		<comboVar1 v="Pillager"/>	
+		<comboVar1 v="Shadow"/>
+
+		<comboVar2 v="the Forest"/>
+		<comboVar2 v="Riverwood"/>	
+		<comboVar2 v="Skyrim"/>	
+
+</allRace>
+<allRaceHUMAN></allRaceHUMAN>
+<noneRace></noneRace>
+</bothGenders>
+<male>
+	<nord>
+		<first v="Urd"/>
+		<first v="Jormm"/>
+		<first v="Oso"/>
+		<first v="Jornvur"/>
+		<first v="Gornof"/>
+		<first v="Skidde"/>
+		<first v="Golf"/>
+		<first v="Brasav"/>
+		<first v="Garmov"/>
+		<first v="Sydovr"/>
+	</nord>
+<breton>
+	<first v="" Last=""/>
+	<first v="" lastPer=""/>
+	<first v="" lastPer=""/>
+	<first v="" lastPer=""/>
+	<first v=""/>
+	<last v=""/>
+	<last v=""/>
+	<last v=""/>
+	<last v=""/>
+	<last v=""/>
+</breton>
+</male>
+<female>
+	<argonian>
+		<first v="Bapa" only="1"/>
+		<first v="Lut" only="1"/>
+		<first v="Jah-Gah-Li" only="1"/>
+		<first v="Va-Ven" only="1"/>
+		<first v="Tuai" only="1"/>
+		<first v="Wih-lei" only="1"/>
+		<first v="Tarloo" only="1"/>
+		<first v="Lohuzapa" only="1"/>
+		<first v="Geep" only="1"/>
+		<first v="Gilmuki" only="1"/>
+		<first v="Neejazil" only="1"/>
+		<first v="Aken-Adzi" only="1"/>
+		<first v="Weluxi" only="1"/>
+		<first v="Ming" only="1"/>
+		<first v="Steals-Sometimes" only="1"/>
+		<first v="Minds-Eye" only="1"/>
+		<first v="Wet-Throat" only="1"/>
+		<first v="Slips-on-Leaf" only="1"/>
+		<first v="Stomach-Dancer" only="1"/>
+		<first v="Silk-Sea-Sky" only="1"/>
+		<first v="Dreams-of-Dinner" only="1"/>
+		<first v="Eyes-are-Behind" only="1"/>
+		<first v="Knows-what-Wants" only="1"/>		
+	</argonian>		
+	<imperial>
+		<first v="Tich"/>
+		<first v="Simora"/>
+		<first v="Theresia"/>
+		<first v="Nari"/>
+		<first v="Genessia"/>
+		<first v="Gala"/>
+		<first v="Tetra"/>
+		<first v="Mathe"/>
+		<first v="Lessa"/>
+		<first v="Lauranne"/>
+		<first v="Abathia"/>
+		<first v="Illydia"/>
+		<first v="Ednava"/>
+		<first v="Sifentia"/>
+		<first v="Nex"/>
+		<first v="Ametera"/>
+		<first v="Safra"/>		
+	</imperial>
+	<breton>
+		<first v="Ysona"/>
+		<first v="Babbaryth"/>
+		<first v="Amberlyn"/>
+		<first v="Gwynsyrra"/>	
+		<first v="Chrysthalyr"/>
+		<first v="Elodyra"/>
+		<first v="Gwynzalyr"/>
+		<first v="Gwyn"/>
+		<first v="Fragidyrra"/>
+		<first v="Illysyyra"/>
+		<first v="Vatvanya"/>	
+		<first v="Meav"/>
+		<first v="Medrin"/>
+		<first v="Voabile"/>
+		<first v="Nave"/>
+		<first v="Genneve"/>
+		<first v="Ellia"/>
+		<first v="Guul"/>
+		<first v="Raven"/>
+		<first v="Santine"/>
+		<first v="Eldry"/>
+		<first v="Genesse"/>
+		<first v="Remi"/>
+		<first v="Bulana"/>
+		<first v="Amelly"/>
+		<first v="Yida"/>
+		<first v="Mathe"/>
+		<first v="Nuinyr"/>	
+		<first v="Spatanyr"/>		
+	</breton>
+	<nord>
+		<first v="Sedna"/>
+		<first v="Giff"/>
+		<first v="Sydna"/>
+		<first v="Skiddle"/>
+		<first v="Jaev"/>
+		<first v="Hellef"/>
+		<first v="Olma"/>
+		<first v="Videv"/>
+		<first v="Babi"/>
+		<first v="Shakura" only="1"/>
+		<first v="Svetna"/>
+		<first v="Riki"/>
+		<first v="Joll"/>
+		<first v="Vigda"/>
+		<first v="Vikusha"/>
+		<first v="Fanelvyr"/>
+	</nord>
+</female>
+</map>

@@ -1,0 +1,44 @@
+<classdata id="exm_OFace">
+<montage>
+	<expression>		
+		<mien sy="4" am="90" pan="5" per="50"/>
+		<mien sy="1" am="90" pan="5" per="70"/>
+		<mien sy="3" am="80" pan="10" per="100"/>
+	</expression>
+	<brows>
+		<mien vl="-80" vlpan="10" vr="-80" vrpan="10" il="80" ilpan="10" ir="80" irpan="10" per="20"/>
+		<mien vl="-60" vlpan="10" vr="-60" vrpan="10" il="40" ilpan="10" ir="40" pan="5" irpan="10" per="40"/>
+		<mien vl="-40" vlpan="10" vr="-40" vrpan="10" il="80" ilpan="10" ir="80" pan="5" irpan="10" per="60"/>
+		<mien vl="95" vlpan="10" vr="95" vrpan="10" il="0" ilpan="10" ir="0" pan="5" irpan="10" per="80"/>
+		<mien vl="80" vlpan="10" vr="80" vrpan="10" il="25" ilpan="10" ir="25" irpan="10" per="100"/>
+	</brows>
+	<squint>
+		<mien l="50" r="50" pan="50" per="100"/>
+	</squint>
+	<lids>
+		<mien l="0" r="0" pan="10" per="30"/>
+		<mien l="90" r="90" pan="10" per="60"/>
+		<mien l="20" r="15" pan="5" per="85"/>
+		<mien l="20" r="0" pan="5" per="100"/>
+		<mien l="0" r="0" pan="5" per="100"/>
+	</lids>
+	<mouth>
+			<mien per="40">
+				<ph sy="1" am="20" pan="20"/>		
+			</mien>
+			<mien per="60">
+				<ph sy="1" am="10" pan="5"/>	
+				<ph sy="4" am="15" pan="10"/>	
+				<ph sy="5" am="15" pan="10"/>		
+			</mien>	
+			<mien per="80">
+				<ph sy="6" am="55" pan="10"/>		
+			</mien>	
+			<mien per="100">
+				<ph sy="1" am="10" pan="5"/>	
+				<ph sy="4" am="10" pan="5"/>	
+				<ph sy="5" am="25" pan="10"/>		
+			</mien>	
+	</mouth>
+</montage>                     
+</classdata>

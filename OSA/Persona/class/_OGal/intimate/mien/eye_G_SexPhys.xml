@@ -1,0 +1,132 @@
+<classdata id="eye_G_SexPhys">
+<montage>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="action" per="50"/>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+</montage>                     
+</classdata>

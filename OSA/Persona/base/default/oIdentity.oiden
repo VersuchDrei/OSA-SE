@@ -1,0 +1,113 @@
+<identityBase id="oIdentity">
+ 
+<voicesuite id="_OGalVoSuite" name="OGal" gender="F" vo="_OGal" ivo="_OGal" ivos="_OGal" wvo="!"/>
+<voicesuite id="_OGuyVoSuite" name="OGuy" gender="M" vo="_OGuy" ivo="_OGuy" ivos="_OGuy" wvo="!"/>
+
+<lipshape id="_OGal" gender="F">	
+<a l="1" sdelay=".25">
+      <ph sy0="1" am0="30" pan0="10" rev0="1", sy1="1" am1="50" rev1="1" pan1="10" sy2="1" am2="80" rev2="1" pan2="10"/>
+</a>
+<a l="1" sdelay=".25">
+      <ph sy0="1" am0="30" pan0="10" rev0="1", sy1="1" am1="30" rev1="1" pan1="10" sy2="1" am2="50" rev2="1" pan2="10"/>
+      <ph sy0="3" am0="50" pan0="10" rev0="1", sy1="3" am1="80" rev1="1" pan1="10" sy2="3" am2="80" rev2="1" pan2="10"/>
+</a>
+<a l="1" sdelay=".25">
+      <ph sy0="1" am0="25" pan0="10" rev0="1", sy1="1" am1="40" rev1="1" pan1="10" sy2="1" am2="65" rev2="1" pan2="10"/>
+      <ph sy0="5" am0="50" pan0="10" rev0="1", sy1="5" am1="55" rev1="1" pan1="10" sy2="5" am2="60" rev2="1" pan2="10"/>
+</a>
+<a l="1" sdelay=".25">
+      <ph sy0="1" am0="20" pan0="10" rev0="1", sy1="1" am1="40" rev1="1" pan1="10" sy2="1" am2="40" rev2="1" pan2="10"/>
+      <ph sy0="4" am0="50" pan0="10" rev0="1", sy1="4" am1="55" rev1="1" pan1="10" sy2="4" am2="100" rev2="1" pan2="10"/>
+      <ph sy0="7" am0="50" pan0="10" rev0="1", sy1="7" am1="60" rev1="1" pan1="10" sy2="5" am2="60" rev2="1" pan2="10"/>
+</a>
+<e l="1" sdelay=".25">
+      <ph sy0="15" am0="40" pan0="10" rev0="1", sy1="15" am1="40" rev1="1" pan1="10" sy2="15" am2="40" rev2="1" pan2="10"/>
+      <ph sy0="4" am0="20" pan0="10" rev0="1", sy1="4" am1="30" rev1="1" pan1="10" sy2="4" am2="40" rev2="1" pan2="10"/>
+      <ph sy0="1" am0="20" pan0="10" rev0="1", sy1="1" am1="30" rev1="1" pan1="10" sy2="1" am2="40" rev2="1" pan2="10"/>
+</e>
+<i l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</i>
+<o l="1" sdelay=".25">
+      <ph sy0="14" am0="40" pan0="10" rev0="1", sy1="14" am1="65`" rev1="1" pan1="10" sy2="14" am2="85" rev2="1" pan2="10"/>
+      <ph sy0="2" am0="50" pan0="10" rev0="1", sy1="2" am1="50" rev1="1" pan1="10" sy2="2" am2="50" rev2="1" pan2="10"/>
+</o>
+<u l="1" sdelay=".25">
+      <ph sy0="11" am0="40" pan0="10" rev0="1", sy1="11" am1="60" rev1="1" pan1="10" sy2="1" am2="80" rev2="1" pan2="10"/>
+</u>
+</lipshape>   
+<lipshape id="_OGuy" gender="M">	
+<a l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</a>
+<e l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</e>
+<i l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</i>
+<o l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</o>
+<u l="1" sdelay=".25">
+      <ph sy0="1" am0="45" pan0="10" rev0="1", sy1="1" am1="45" rev1="1" pan1="10" sy2="1" am2="45" rev2="1" pan2="10"/>
+</u>
+</lipshape>   
+
+<intimacy>
+<motif id="_OGuy" gender="M"/>
+<motif id="_OGal" gender="F"/>
+<mien>
+	<expression id="_OGuy" gender="M"/>
+	<expression id="_OGal" gender="F"/>	
+	<voice id="_OGuy" gender="M"/>
+	<voice id="_OGal" gender="F"/>	
+</mien>	
+<emo>
+	<expression id="_OGuy" gender="M"/>
+	<expression id="_OGal" gender="F"/>	
+	<voice id="_OGuy" gender="M"/>
+	<voice id="_OGal" gender="F"/>	
+</emo>	
+<react>
+	<kiss id="_OGuy" gender="M"/>
+	<kiss id="_OGal" gender="F"/>
+	<emb id="_OGuy" gender="M"/>
+	<emb id="_OGal" gender="F"/>
+
+	<gentle id="_OGuy" gender="M"/>
+	<gentle id="_OGal" gender="F"/>
+	<phys id="_OGuy" gender="M"/>
+	<phys id="_OGal" gender="F"/>		
+	<rough id="_OGuy" gender="M"/>
+	<rough id="_OGal" gender="F"/>	
+	<abuse id="_OGuy" gender="M"/>
+	<abuse id="_OGal" gender="F"/>	
+
+	<expo id="_OGuy" gender="M"/>
+	<expo id="_OGal" gender="F"/>
+	<clothes id="_OGuy" gender="M"/>
+	<clothes id="_OGal" gender="F"/>
+
+	<hair id="_OGuy" gender="M"/>
+	<hair id="_OGal" gender="F"/>
+	<spank id="_OGuy" gender="M"/>
+	<spank id="_OGal" gender="F"/>
+
+	<inpus id="_OGuy" gender="M"/>
+	<inpus id="_OGal" gender="F"/>
+	<inmo id="_OGuy" gender="M"/>
+	<inmo id="_OGal" gender="F"/>
+	<inanal id="_OGuy" gender="M"/>
+	<inanal id="_OGal" gender="F"/>
+
+	<pnpus id="_OGuy" gender="M"/>
+	<pnpus id="_OGal" gender="F"/>
+	<pnmo id="_OGuy" gender="M"/>
+	<pnmo id="_OGal" gender="F"/>
+	<pnanal id="_OGuy" gender="M"/>
+	<pnanal id="_OGal" gender="F"/>
+</react>	
+</intimacy>
+
+</identityBase>

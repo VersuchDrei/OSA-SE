@@ -1,0 +1,16 @@
+<classdata id="d_W_JerkToFaceMe">
+<motif>
+	<caliber hasintensity="true">
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_curious" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_curious" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_W_JerkMe" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_curious" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_curious" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_curious" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="exm_curious" use="montage" degree="0" />
+		</intensity>
+	</caliber>
+</motif>
+</classdata>

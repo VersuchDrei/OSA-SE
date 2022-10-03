@@ -1,0 +1,35 @@
+<classdata id="Penetration">
+<emoex>
+<declare id="expression"/>
+<declare id="mouth"/>	
+<declare id="brows"/>
+<declare id="eyes"/>
+
+	<expression>
+		<emo sy="4" am="90" pan="5" per="25"/>
+		<emo sy="3" am="90" pan="5" per="45"/>
+		<emo sy="2" am="90" pan="5" per="100"/>
+	</expression>
+	<mouth>
+		<emo per="100"> 
+			<ph sy="11" am="40" pan="20" rev="1.5"/>
+			<ph sy="8" am="40" pan="10" rev="1.5"/> 
+		</emo>
+	</mouth>
+	<brows>
+		<emo vl="80" vr="80" il="0" ir="0" vpan="10" hpan="50"/>  
+	</brows>
+	<eyes>
+		<emo focus="look" per="100"/>  
+	</eyes>
+</emoex>
+<emovo>
+	<voice>
+		<emo fo="ivo" ty="effort" sy="0" per="20"/>
+		<emo fo="ivo" ty="breath" sy="2" per="50"/>
+		<emo fo="ivo" ty="medium" sy="0" per="60"/>
+		<emo fo="ivo" ty="loud" sy="0" per="80"/>
+		<emo fo="ivo" ty="loud" sy="1" per="100"/>
+	</voice>	
+</emovo>	
+</classdata>

@@ -1,0 +1,23 @@
+<classdata id="KissEnter">
+<emoex>
+<declare id="expression"/>
+<declare id="mouth"/>	
+<declare id="lids"/>
+
+	<expression>
+		<emo sy="2" am="70" pan="20" per="100"/>
+	</expression>
+	<mouth>
+		<emo per="100"> 
+			<ph sy="1" am="40" pan="20"/>
+		</emo>
+	</mouth>
+	<lids>
+		<emo l="90" r="90" pan="0" per="100"/> 
+	</lids>
+</emoex>
+<emovo>
+	<voice>
+	</voice>	
+</emovo>	
+</classdata>

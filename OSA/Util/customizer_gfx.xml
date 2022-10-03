@@ -1,0 +1,286 @@
+﻿
+
+<raceClass race="nord" class="human">
+<subClass v="caucasian"/><subClass v="albino" per="20"/><subClass v="attirePlain"/><subClass v="makeupVanityCauc"/><subClass v="attirePlain"/><subClass v="intimatesPretty"/><subClass v="intimatesBold"/>
+</raceClass>
+<raceClass race="breton" class="human"><subClass v="caucasian"/><subClass v="attirePlain"/><subClass v="makeupVanityCauc"/><subClass v="intimatesPretty"/></raceClass>
+<raceClass race="imperial" class="human"><subClass v="caucasian"/><subClass v="attirePlain"/><subClass v="makeupVanityCauc"/><subClass v="intimatesPretty"/><subClass v="intimatesBold"/></raceClass>
+<raceClass race="redguard" class="human"><subClass v="fullComplexion"/><subClass v="attirePlain"/><subClass v="intimatesPretty"/></raceClass>
+<raceClass race="highelf" class="human"><subClass v="fullComplexion"/><subClass v="attirePlain"/><subClass v="intimatesPretty"/></raceClass>
+<raceClass race="darkelf" class="human"><subClass v="fullComplexion"/><subClass v="attirePlain"/></raceClass>
+<raceClass race="orc" class="human"><subClass v="fullComplexion"/><subClass v="primal"/></raceClass>
+<raceClass race="argonian" class="beast"><subClass v="fullComplexion"/><subClass v="primal"/></raceClass>
+<raceClass race="khajiit" class="beast"><subClass v="fullComplexion"/><subClass v="primal"/></raceClass>
+
+<map>
+<bothGenders>
+<allRace>
+	<eyelinerRGB v="$sk"/>
+	<nailpolishRGB v="$sk"/>
+	
+
+</allRace>
+<noneRace><bodyRGB skin="F1D6CB" blush="D89F9D" tender="D89F9D"/></noneRace>
+<allRaceHUMAN clothingSetPer="">
+	<intlowRGB v="DDDDDD"/>
+	<intlowRGB v="CCCCCC"/>
+	<intlowRGB v="BBBBBB"/>
+	<intlowRGB v="AAAAAA"/>
+	<intlowRGB v="999999"/>
+	<intlowRGB v="888888"/>
+	<intlowRGB v="777777"/>
+	<intlowRGB v="666666"/>
+	<intlowRGB v="555555"/>
+	<intlowRGB v="444444"/>
+	<intlowRGB v="7E614F"/>
+	<hairRGB v="7E614F"/>
+	
+	<eyesRGB v="AF795B"/>
+	<eyesRGB v="543A2D"/>
+	<eyesRGB v="876759"/>
+	<eyesRGB v="887B77"/>
+
+</allRaceHUMAN>
+<allRaceFULLCOMPLEXION clothingSetPer="">
+
+	<hairRGB v="473E3A"/>
+	<hairRGB v="493727"/>
+	<hairRGB v="42322A"/>
+	<hairRGB v="28211E"/>
+	<hairRGB v="211A13"/>
+	<hairRGB v="2B2623"/>
+	<hairRGB v="1D1E26"/>
+
+</allRaceFULLCOMPLEXION>
+<allRaceCAUCASIAN clothingSetPer="">
+	<bodyRGB skin="EFD4CA" tender="F79F93"/>
+	<bodyRGB skin="F8DCD6" tender="E0A9A2"/>
+	<bodyRGB skin="F3DCD6" tender="ECC1BD"/>
+	<bodyRGB skin="EFCBC5" tender="EA8788"/>
+	<bodyRGB skin="F2CDB9" tender="F49984"/>
+	<bodyRGB skin="FDDFD7" tender="F7B4C5"/>
+	<bodyRGB skin="FCE3E2" tender="F991AF"/>
+
+	<hairRGB v="554743"/>
+	<hairRGB v="644E45"/>
+	<hairRGB v="5E513E"/>
+	<hairRGB v="7E6151"/>
+	<hairRGB v="6B5251"/>
+	<hairRGB v="715D44"/>
+	<hairRGB v="917759"/>
+	<hairRGB v="B29980"/>
+
+	<hairRGB v="776333"/>
+	<hairRGB v="A87C6C"/>
+	<hairRGB v="AA926B"/>
+	<hairRGB v="C29C65"/>
+	<hairRGB v="D3B97F"/>
+	<hairRGB v="D6C1A5"/>
+	<hairRGB v="B7A28A"/>
+	<hairRGB v="D6BF5B"/>
+	<hairRGB v="E4D49A"/>
+	<hairRGB v="EFE6CB"/>
+	<hairRGB v="D9D2BE"/>
+	<hairRGB v="BCB2A2"/>
+	<hairRGB v="BC813B"/>
+	<hairRGB v="B3543B"/>
+	<hairRGB v="A8655A"/>
+
+	<hairRGB v="7B605C"/>
+	<hairRGB v="514030"/>
+	<hairRGB v="5E4735"/>
+	<hairRGB v="7C6453"/>
+
+	<hairRGB v="151516"/>
+	<hairRGB v="161617"/>
+	<hairRGB v="202023"/>
+	<hairRGB v="0A0A16"/>
+
+	<hairRGB v="473E3A"/>
+	<hairRGB v="493727"/>
+	<hairRGB v="42322A"/>
+	<hairRGB v="28211E"/>
+	<hairRGB v="211A13"/>
+	<hairRGB v="2B2623"/>
+	<hairRGB v="1D1E26"/>
+
+	<eyesRGB v="CEB752"/>
+	<eyesRGB v="CCCC51"/>
+	<eyesRGB v="94A562"/>
+	<eyesRGB v="7B933B"/>
+	<eyesRGB v="49A046"/>
+
+	<eyesRGB v="1D75BC"/>
+	<eyesRGB v="1FACBF"/>
+	<eyesRGB v="4878BC"/>
+	<eyesRGB v="3A516D"/>
+	<eyesRGB v="74A1BA"/>
+
+	<eyesRGB v="8EBDDD"/>
+	<eyesRGB v="97D4C0"/>
+	<eyesRGB v="C3D4ED"/>
+
+
+</allRaceCAUCASIAN>
+<allRaceALBINO clothingSetPer="">
+	<bodyRGB skin="FEE9E6" tender="F59DB5"/>
+	<bodyRGB skin="FDE3E0" tender="FAC4C5"/>
+	<bodyRGB skin="FEECEB" tender="F9C6D5"/>
+	<bodyRGB skin="F9E8EC" tender="F48C95"/>
+	<bodyRGB skin="FDE6E6" tender="F8B4BE"/>
+	<bodyRGB skin="FDE9E9" tender="F1B6A2"/>
+	<hairRGB v="D16C59"/>
+	<hairRGB v="C03B41"/>
+	<hairRGB v="D05649"/>
+	<hairRGB v="D85727"/>
+	<hairRGB v="B04C2D"/>
+	<hairRGB v="914042"/>
+	<hairRGB v="C03B41"/>
+	<hairRGB v="CC5C28"/>
+</allRaceALBINO>
+<noneRace></noneRace>
+<nord>
+</nord>
+<breton>
+	<bodyRGB skin="F1D6CB" tender="D89F9D"/>
+	<bodyRGB skin="FAC4BE" tender="F2A197"/>
+	<bodyRGB skin="EFC2B6" tender="F9BCBD"/>
+	<bodyRGB skin="E4C2AE" tender="F8B1A9"/>
+	<bodyRGB skin="E0B8A2" tender="DE9691"/>	
+</breton>
+<redguard>
+	<bodyRGB skin="AF9787" tender="8C6E5B"/>
+	<bodyRGB skin="D6A787" tender="AA846A"/>
+	<bodyRGB skin="9E8674" tender="8C5049"/>
+	<bodyRGB skin="CE9975" tender="9E7255"/>
+	<bodyRGB skin="DBB295" tender="BB9377"/>	
+	<bodyRGB skin="DCBEA8" tender="AD886F"/>	
+	<bodyRGB skin="D99B8B" tender="AA796F"/>	
+	<bodyRGB skin="DDA69B" tender="D68C80"/>	
+</redguard>
+<highelf>
+	<bodyRGB skin="EDE5CC" tender="E1CEAF"/>
+	<bodyRGB skin="E8D6B8" tender="DFBC96"/>
+	<bodyRGB skin="E0D7B3" tender="CCB596"/>
+	<bodyRGB skin="E2C590" tender="E9C575"/>
+</highelf>
+<darkelf>
+	<bodyRGB skin="80989E" tender="667F84"/>
+	<bodyRGB skin="9AADAF" tender="859FA0"/>
+	<bodyRGB skin="B3C2C6" tender="98ABAF"/>
+	<bodyRGB skin="AAADC0" tender="6C7087"/>
+</darkelf>
+<orc>
+	<bodyRGB skin="A8BF7B" tender="768941"/>
+	<bodyRGB skin="BBC999" tender="D6CF94"/>	
+	<bodyRGB skin="CDD4BD" tender="A9BC87"/>	
+	<bodyRGB skin="C7CBC1" tender="9D9F97"/>	
+	<bodyRGB skin="D8BAAB" tender="B69484"/>	
+	<bodyRGB skin="C49D8C" tender="BF7460"/>
+	<bodyRGB skin="D5918A" tender="C75B56"/>
+</orc>
+<allRaceATTIREPLAIN clothingSetPer="">
+	<clothingSetRGB shirt="!" pants="!" intlow="!" socks="!"/>
+	<clothingSetRGB shirt="!" pants="!" intlow="!" socks="!"/>
+	<clothingSetRGB shirt="E2E2E2" pants="C9B49F" intlow="!" socks="E2E2E2"/>
+	<clothingSetRGB shirt="B5977F" pants="846D62" intlow="!" socks="B5977F"/>
+	<clothingSetRGB shirt="A0706D" pants="A0706D" intlow="!" socks="E2E2E2"/>
+	<shirtRGB v="DDDDDD"/>
+	<shirtRGB v="CCCCCC"/>
+	<shirtRGB v="BBBBBB"/>
+	<shirtRGB v="AAAAAA"/>
+	<shirtRGB v="999999"/>
+	<shirtRGB v="888888"/>
+	<shirtRGB v="777777"/>
+	<shirtRGB v="666666"/>
+	<shirtRGB v="555555"/>
+	<shirtRGB v="444444"/>
+
+
+	<pantsRGB v="DDDDDD"/>
+	<pantsRGB v="CCCCCC"/>
+	<pantsRGB v="BBBBBB"/>
+	<pantsRGB v="AAAAAA"/>
+	<pantsRGB v="999999"/>
+	<pantsRGB v="888888"/>
+	<pantsRGB v="777777"/>
+	<pantsRGB v="666666"/>
+	<pantsRGB v="555555"/>
+	<pantsRGB v="444444"/>
+
+
+	<socksRGB v="DDDDDD"/>
+	<socksRGB v="CCCCCC"/>
+	<socksRGB v="BBBBBB"/>
+	<socksRGB v="AAAAAA"/>
+	<socksRGB v="999999"/>
+	<socksRGB v="888888"/>
+	<socksRGB v="777777"/>
+	<socksRGB v="666666"/>
+	<socksRGB v="555555"/>
+	<socksRGB v="444444"/>
+
+
+</allRaceATTIREPLAIN>	
+</bothGenders>
+<male></male>
+<female>
+<allRace>
+</allRace>
+<allRaceINTIMATESPRETTY clothingSetPer="">
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="FFFFFF"/>
+	<intlowRGB v="ECD4E7"/>
+	<intlowRGB v="F9B6B8"/>
+	<intlowRGB v="90D4D8"/>
+	<intlowRGB v="F7F298"/>
+	<intlowRGB v="C8A7CF"/>
+	<intlowRGB v="EAC0CB"/>
+	<intlowRGB v="E3E9C7"/>
+	<intlowRGB v="B1C0DB"/>
+</allRaceINTIMATESPRETTY>	
+<allRaceMAKEUPVANITYCAUC>
+	<eyelinerRGB v="8C7FBC"/>
+	<eyelinerRGB v="4DB748"/>
+	<eyelinerRGB v="C3519E"/>
+	<eyelinerRGB v="F38FBB"/>
+	<eyelinerRGB v="3D58A7"/>
+	<eyelinerRGB v="8053A2"/>
+	<eyelinerRGB v="70CCD8"/>
+
+	<nailpolishRGB v="EF4369"/>
+	<nailpolishRGB v="D06CAA"/>
+	<nailpolishRGB v="C3519E"/>
+	<nailpolishRGB v="71C9C0"/>
+	<nailpolishRGB v="EE3225"/>
+	<nailpolishRGB v="FBAC21"/>
+	<nailpolishRGB v="FEE600"/>
+	<nailpolishRGB v="040403"/>
+
+	<lipsRGB v="783233"/>
+	<lipsRGB v="921E2D"/>
+	<lipsRGB v="A31F22"/>
+	<lipsRGB v="E83E3D"/>
+	<lipsRGB v="D31F42"/>
+	<lipsRGB v="CE6E6E"/>
+	<lipsRGB v="F17099"/>
+	<lipsRGB v="F37C93"/>
+	<lipsRGB v="FACBD9"/>
+	<lipsRGB v="F6893F"/>
+</allRaceMAKEUPVANITYCAUC>	
+<allRaceINTIMATESBOLD clothingSetPer="">
+	<intlowRGB v="F95D5D"/>
+	<intlowRGB v="69CCE2"/>
+	<intlowRGB v="F05F94"/>
+	<intlowRGB v="85CDB6"/>
+	<intlowRGB v="F1EB57"/>
+	<intlowRGB v="F6B24F"/>
+	<intlowRGB v="7288C4"/>
+	<intlowRGB v="B0509E"/>
+</allRaceINTIMATESBOLD>	
+</female>
+</map>

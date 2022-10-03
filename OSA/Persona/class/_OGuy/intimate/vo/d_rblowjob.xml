@@ -1,0 +1,98 @@
+<classdata id="d_rblowjob">
+<rank val1="arousal" r2="intensity"/>	
+<cycle>
+<voice>
+	<val0>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="pant" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="pant" per="100"/>
+			</tier>		
+		</val1>
+	</val0>
+	<val0 />
+	<val0 />
+	<val0 />
+		<val0>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/> 
+			</tier>	
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="100"/>
+			</tier>		
+		</val1>
+		<val1 per="60" fn="multitier">
+			<tier per="50" fn="multipoint">
+				<vo fo="ivo" ty="breath" ze="1" per="100"/> 
+			</tier>	
+			<tier per="75" fn="multipoint">
+				<vo fo="ivo" ty="subtle" ze="0" per="50"/>
+				<vo fo="ivo" ty="subtle" ze="1" per="100"/>
+			</tier>		
+			<tier per="100" fn="multipoint">
+				<vo fo="ivo" ty="loud" ze="0" per="50"/>
+			</tier>		
+		</val1>
+	</val0>
+</voice>
+</cycle>
+</classdata>

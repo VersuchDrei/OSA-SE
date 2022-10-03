@@ -1,0 +1,28 @@
+<classdata id="exm_Happy">
+<montage>
+	<expression>		
+		<mien sy="2" am="50" pan="30" per="50"/>
+	</expression>
+	<brows>
+		<mien vl="-80" vlpan="10" vr="-80" vrpan="10" il="80" ilpan="10" ir="80" irpan="10" per="20"/>
+		<mien vl="-60" vlpan="10" vr="-60" vrpan="10" il="40" ilpan="10" ir="40" pan="5" irpan="10" per="40"/>
+		<mien vl="-40" vlpan="10" vr="-40" vrpan="10" il="80" ilpan="10" ir="80" pan="5" irpan="10" per="60"/>
+		<mien vl="95" vlpan="10" vr="95" vrpan="10" il="0" ilpan="10" ir="0" pan="5" irpan="10" per="80"/>
+		<mien vl="80" vlpan="10" vr="80" vrpan="10" il="25" ilpan="10" ir="25" irpan="10" per="100"/>
+	</brows>
+	<squint>
+		<mien l="10" r="10" pan="15" per="80"/>
+	</squint>
+	<lids>
+		<mien l="10" r="10" pan="10" per="50"/>
+	</lids>
+	<mouth>
+			<mien per="40">
+				<ph sy="5" am="40" pan="20"/>		
+			</mien>
+			<mien per="40">
+				<ph sy="4" am="40" pan="20"/>		
+			</mien>
+	</mouth>
+</montage>                     
+</classdata>

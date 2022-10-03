@@ -1,0 +1,36 @@
+﻿<raceClass race="nord" class="human"/>
+<raceClass race="breton" class="human"/>
+<raceClass race="imperial" class="human"/>
+<raceClass race="redguard" class="human"/>
+<raceClass race="highelf" class="human"/>
+<raceClass race="darkelf" class="human"/>
+<raceClass race="argonian" class="beast"/>
+<raceClass race="khajiit" class="beast"/>
+
+<map>
+<bothGenders>
+<allRace>
+</allRace>
+<noneRace></noneRace>
+<allRaceHUMAN>
+</allRaceHUMAN>
+<noneRace></noneRace>
+<nord>
+</nord>
+<breton>
+</breton>
+<redguard>	
+</redguard>
+<highelf>
+</highelf>
+<darkelf>
+</darkelf>
+<orc>
+</orc>
+</bothGenders>
+<male></male>
+<female>
+<allRace>
+</allRace>
+</female>
+</map>

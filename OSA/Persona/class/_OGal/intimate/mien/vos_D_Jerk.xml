@@ -1,0 +1,20 @@
+<classdata id="vos_D_Jerk">
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="15"/>
+	</voice>
+</montage>   
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="30"/>
+	</voice>
+</montage>   
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="15"/>
+		<mien fo="ivo" ty="medium" sy="2" per="30"/>
+		<mien fo="ivo" ty="loud" sy="2" per="45"/>
+		<mien fo="ivo" ty="frenzy" sy="2" per="60"/>
+	</voice>
+</montage>                       
+</classdata>

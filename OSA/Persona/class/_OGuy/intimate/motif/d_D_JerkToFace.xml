@@ -1,0 +1,61 @@
+<classdata id="d_D_JerkToFace">
+<motif>
+	<caliber hasintensity="true">
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_D_VoyBody" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="" />
+			<voice id="vos_VoyRear" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+		</intensity>
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_D_JerkBody" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="" />
+			<voice id="vos_D_Jerk" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+		</intensity>
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_D_JerkBody" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="" />
+			<voice id="vos_D_Jerk" drive="intimate" use="montage" degree="1" restore="0" per="100"/>
+		</intensity>
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_D_JerkBody" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="" />
+			<voice id="vos_D_Jerk" drive="intimate" use="montage" degree="2" restore="0" per="100"/>
+		</intensity>
+		<intensity>
+			<base id="curious"/>
+			<expression id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="65"/>
+			<brows id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<eyes id="eye_D_JerkBody" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<lids id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="75"/>
+			<squint id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<mouth id="exm_OFace" drive="intimate" use="montage" degree="0" restore="0" per="100"/>
+			<reaction id="" />
+			<voice id="vos_D_Jerk" drive="intimate" use="montage" degree="2" restore="0" per="100"/>
+		</intensity>
+	</caliber>
+</motif>
+</classdata>

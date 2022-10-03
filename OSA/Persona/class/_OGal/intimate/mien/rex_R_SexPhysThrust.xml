@@ -1,0 +1,6 @@
+<classdata id="rex_R_SexPhysThrust">
+	<reactionex>		
+		<mien sy="4" am="90" pan="20" rec="1"/>
+		<mien sy="3" am="90" pan="20" rec="1"/>
+	</reactionex>
+</classdata>

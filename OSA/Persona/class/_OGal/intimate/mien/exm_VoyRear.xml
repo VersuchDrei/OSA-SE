@@ -1,0 +1,34 @@
+<classdata id="exm_VoyRear">
+<montage>
+	<expression>		
+		<mien sy="2" am="90" pan="50" per="50"/>
+	</expression>
+	<brows>
+		<mien vl="90" vlpan="10" vr="90" vrpan="10" il="50" ilpan="50" ir="50" irpan="50" per="100"/>
+	</brows>
+	<squint>
+		<mien l="0" r="0" pan="0" per="75"/>
+	</squint>
+	<lids>
+		<mien l="0" r="0" pan="10" per="75"/>
+	</lids>
+	<mouth>
+			<mien per="40">
+				<ph sy="1" am="20" pan="20"/>		
+			</mien>
+			<mien per="60">
+				<ph sy="1" am="10" pan="5"/>	
+				<ph sy="4" am="15" pan="10"/>	
+				<ph sy="5" am="15" pan="10"/>		
+			</mien>	
+			<mien per="80">
+				<ph sy="6" am="55" pan="10"/>		
+			</mien>	
+			<mien per="100">
+				<ph sy="1" am="10" pan="5"/>	
+				<ph sy="4" am="10" pan="5"/>	
+				<ph sy="5" am="25" pan="10"/>		
+			</mien>	
+	</mouth>
+</montage>                     
+</classdata>

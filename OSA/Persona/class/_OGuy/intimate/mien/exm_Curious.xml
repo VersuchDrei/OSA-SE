@@ -1,0 +1,28 @@
+<classdata id="exm_Curious">
+<montage>
+	<expression>
+		<mien sy="4" am="80" pan="20" per="60"/>
+		<mien sy="5" am="80" pan="20" per="100"/>
+		<mien sy="9" am="60" pan="20" per="100"/>
+	</expression>
+	<brows>
+		<mien vl="-80" vlpan="20" vr="80" vrpan="20" il="70" ilpan="-20" ir="0" irpan="0" per="30"/>
+		<mien vl="80" vlpan="20" vr="-80" vrpan="20" il="0" ilpan="0" ir="70" irpan="-20" per="60"/>
+		<mien vl="90" vlpan="20" vr="90" vrpan="20" il="50" ilpan="50" ir="50" irpan="50" per="90"/>
+	</brows>
+	<squint>
+		<mien l="0" r="0" pan="10" per="60"/>
+	</squint>
+	<lids>
+		<mien l="0" r="0" pan="5" per="60"/>
+	</lids>
+	<mouth>
+		<mien per="60">
+			<ph sy="12" am="60" pan="20"/>
+			<ph/>
+			<ph sy="13" am="50" pan="20"/>
+			<ph/>
+		</mien>	
+	</mouth>
+</montage>                     
+</classdata>

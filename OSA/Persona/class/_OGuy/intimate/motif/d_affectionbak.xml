@@ -1,0 +1,95 @@
+<classdata id="d_affection">
+<rank>
+	<r/>
+	<r/>	
+</rank>	
+<cycle>
+	<expression fn="multipoint">
+		<val0 per="60" fn="multipoint">
+		<ex m="ex" t="14" a="80" pan="20" per="50"/>
+		<ex m="ex" t="4" a="70" pan="20" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+		<ex m="ex" t="2" a="60" pan="40" per="35"/>
+		<ex m="ex" t="4" a="70" pan="20" per="70"/>
+		<ex m="ex" t="14" a="60" pan="20" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+		<ex m="ex" t="2" a="40" pan="30" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+		<ex m="ex" t="2" a="80" pan="40" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+		<ex m="ex" t="2" a="100" pan="40" per="100"/>
+		</val0>
+	</expression>	
+	<brows>
+		<val0 per="60" fn="multipoint">
+				<ex dl="40" dr="40" il="50" ir="50" ul="50" ur="50" per="30"/>
+				<ex dl="0" dr="0" il="0" ir="0" ul="60" ur="60" ur="20" per="60"/>
+				<ex dl="0" dr="0" il="20" ir="20" ul="40" ur="100" ur="20" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex dl="40" dr="40" il="50" ir="50" ul="50" ur="50" per="30"/>
+				<ex dl="0" dr="0" il="0" ir="0" ul="60" ur="60"  per="60"/>
+				<ex dl="0" dr="0" il="20" ir="20" ul="40" ur="100" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex dl="40" dr="40" il="50" ir="50" ul="50" ur="50" per="30"/>
+				<ex dl="0" dr="0" il="0" ir="0" ul="60" ur="60" per="60"/>
+				<ex dl="0" dr="0" il="20" ir="20" ul="40" ur="100" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex dl="40" dr="40" il="50" ir="50" ul="50" ur="50" per="30"/>
+				<ex dl="0" dr="0" il="0" ir="0" ul="60" ur="60" per="60"/>
+				<ex dl="0" dr="0" il="20" ir="20" ul="40" ur="100" per="100"/>
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex dl="40" dr="40" il="50" ir="50" ul="50" ur="50" per="30"/>
+				<ex dl="0" dr="0" il="0" ir="0" ul="60" ur="60" per="60"/>
+				<ex dl="0" dr="0" il="20" ir="20" ul="40" ur="100" per="100"/>
+		</val0>
+	</brows>	
+	<mouth>
+		<val0 per="60" fn="multipoint">
+				<ex per="50"/>
+				<ex per="100">
+					<ph t="1" a="10" pan="20"/>	
+				</ex>	
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex per="50"/>
+				<ex per="100">
+					<ph t="1" a="10" pan="20"/>	
+				</ex>	
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex per="50"/>
+				<ex per="100">
+					<ph t="1" a="10" pan="20"/>	
+				</ex>	
+		</val0>
+		<val0 per="60" fn="multipoint">
+				<ex per="50"/>
+				<ex per="100">
+					<ph t="1" a="10" pan="20"/>	
+				</ex>	
+		</val0>
+		<val0 per="75" fn="multipoint">
+				<ex per="20"/>
+				<ex per="40">
+					<ph t="1" a="30" pan="20"/>	
+				</ex>	
+				<ex per="60">
+					<ph t="0" a="30" pan="20"/>	
+				</ex>	
+				<ex per="100">
+					<ph t="1" a="10" pan="20"/>
+					<ph t="4" a="30" pan="20"/>
+					<ph t="5" a="30" pan="20"/>	
+				</ex>	
+		</val0>
+	</mouth>	
+</cycle>
+</classdata>

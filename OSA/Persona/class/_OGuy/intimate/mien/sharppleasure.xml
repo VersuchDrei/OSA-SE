@@ -1,0 +1,14 @@
+<classdata id="sharppleasure">
+
+<ex>
+	<mien ty="ex" sy="4" am="90" pan="10"/>
+	<mien ty="ph" sy="11" am="80" re="1" pan="20"/> 
+	<mien ty="ph" sy="8" am="50" re="1" pan="10"/> 
+	<mien ty="mo" sy="6" am="80" re="1" pan="20"/> 
+	<mien ty="mo" sy="7" am="80" re="1" pan="20"/> 
+</ex>
+
+<vo>
+</vo>
+
+</classdata>

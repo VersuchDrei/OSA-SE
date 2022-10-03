@@ -1,0 +1,48 @@
+<classdata id="vos_R_SexPhys">
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="0" per="30"/>
+		<mien fo="ivo" ty="breath" sy="1" per="37"/>
+		<mien fo="ivo" ty="breath" sy="2" per="40"/>
+		<mien fo="ivo" ty="effort" sy="0" per="44"/>
+		<mien fo="ivo" ty="effort" sy="1" per="46"/>
+		<mien fo="ivo" ty="effort" sy="2" per="47"/>
+		<mien fo="ivo" ty="subtle" sy="0" per="50"/>
+		<mien fo="ivo" ty="medium" sy="0" per="63"/>
+		<mien fo="ivo" ty="loud" sy="0" per="65"/>
+		<mien fo="ivo" ty="frenzy" sy="0" per="66"/>
+	</voice>
+</montage>  
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="35"/>
+		<mien fo="ivo" ty="subtle" sy="0" per="40"/>
+		<mien fo="ivo" ty="subtle" sy="1" per="45"/>
+		<mien fo="ivo" ty="medium" sy="0" per="50"/>
+		<mien fo="ivo" ty="medium" sy="1" per="55"/>
+		<mien fo="ivo" ty="loud" sy="0" per="63"/>
+		<mien fo="ivo" ty="loud" sy="1" per="65"/>
+		<mien fo="ivo" ty="loud" sy="2" per="66"/>
+		<mien fo="ivo" ty="flavor" sy="0" per="67"/>
+		<mien fo="ivo" ty="flavor" sy="1" per="68"/>
+		<mien fo="ivo" ty="flavor" sy="2" per="69"/>
+	</voice>
+</montage> 
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="25"/>
+		<mien fo="ivo" ty="subtle" sy="0" per="35"/>
+		<mien fo="ivo" ty="subtle" sy="1" per="40"/>
+		<mien fo="ivo" ty="subtle" sy="2" per="50"/>
+		<mien fo="ivo" ty="medium" sy="0" per="55"/>
+		<mien fo="ivo" ty="medium" sy="1" per="60"/>
+		<mien fo="ivo" ty="medium" sy="2" per="70"/>
+		<mien fo="ivo" ty="loud" sy="0" per="73"/>
+		<mien fo="ivo" ty="loud" sy="1" per="75"/>
+		<mien fo="ivo" ty="loud" sy="2" per="76"/>
+		<mien fo="ivo" ty="flavor" sy="0" per="78"/>
+		<mien fo="ivo" ty="flavor" sy="1" per="79"/>
+		<mien fo="ivo" ty="flavor" sy="2" per="80"/>
+	</voice>
+</montage>                              
+</classdata>

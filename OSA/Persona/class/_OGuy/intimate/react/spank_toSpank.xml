@@ -1,0 +1,34 @@
+<classdata id="spank_toSpank">
+<force>
+	<pain>
+		<approval>
+			<ex id="Sharp" drive="intimate" use="emoex" degree="0" per="100"/>
+			<vo id="Sharp" drive="intimate" use="emovo" degree="0"  per="100"/>
+		</approval>
+	</pain>
+</force>
+<force>
+	<pain>
+		<approval>
+			<ex id="Sharp" drive="intimate" use="emoex" degree="0" per="100"/>
+			<vo id="Sharp" drive="intimate" use="emovo" degree="0"  per="100"/>
+		</approval>
+	</pain>
+</force>
+<force>
+	<pain>
+		<approval>
+			<ex id="Sharp" drive="intimate" use="emoex" degree="0" per="100"/>
+			<vo id="Sharp" drive="intimate" use="emovo" degree="0"  per="100"/>
+		</approval>
+	</pain>
+</force>
+<force>
+	<pain>
+		<approval>
+			<ex id="Sharp" drive="intimate" use="emoex" degree="0" per="100"/>
+			<vo id="Sharp" drive="intimate" use="emovo" degree="0"  per="100"/>
+		</approval>
+	</pain>
+</force>
+</classdata>

@@ -1,0 +1,22 @@
+<classdata id="vos_G_Handwork">
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="15"/>
+		<mien fo="ivo" ty="effort" sy="0" per="30"/>
+	</voice>
+</montage>  
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="40"/>
+		<mien fo="ivo" ty="effort" sy="0" per="60"/>
+	</voice>
+</montage>  
+<montage>
+	<voice>	
+		<mien fo="ivo" ty="breath" sy="2" per="30"/>
+		<mien fo="ivo" ty="effort" sy="0" per="40"/>
+		<mien fo="ivo" ty="effort" sy="1" per="50"/>
+		<mien fo="ivo" ty="effort" sy="2" per="75"/>
+	</voice>
+</montage>                     
+</classdata>

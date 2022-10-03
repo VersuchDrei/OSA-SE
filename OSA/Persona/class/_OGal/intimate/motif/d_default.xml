@@ -1,0 +1,275 @@
+<idn id="d_default">
+<rank val1="arousal" r2="intensity"/>	
+<cycle>
+<expression>
+	<val0>
+		<val1 per="60" fn="multipoint">
+			<n m="ex" t="14" a="80" pan="10" per="50"/>
+			<n m="ex" t="0" a="90" pan="10" per="100"/>	
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n m="ex" t="14" a="60" pan="20" per="50"/>
+			<n m="ex" t="3" a="60" pan="20" per="100"/>
+
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n m="ex" t="14" a="60" pan="20" per="50"/>
+			<n m="ex" t="3" a="60" pan="20" per="100"/>
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n m="ex" t="14" a="80" pan="10" per="30"/>
+			<n m="ex" t="4" a="80" pan="10" per="50"/>
+			<n m="ex" t="1" a="80" pan="10" per="70"/>
+			<n m="ex" t="0" a="60" pan="10" per="90"/>
+			<n m="ex" t="3" a="60" pan="10" per="100"/>
+
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n m="ex" t="14" a="90" pan="5" per="30"/>
+			<n m="ex" t="4" a="90" pan="5" per="50"/>
+			<n m="ex" t="1" a="90" pan="5" per="70"/>
+			<n m="ex" t="0" a="90" pan="10" per="90"/>
+			<n m="ex" t="3" a="80" pan="10" per="100"/>
+		</val1>
+	</val0>
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0>
+		<val1 per="90" fn="multipoint">
+			<n m="ex" t="2" a="50" pan="10" per="40"/>
+			<n m="ex" t="13" a="40" pan="10" per="60"/>
+			<n m="ex" t="6" a="90" pan="10" per="80"/>
+			<n m="ex" t="4" a="50" pan="10" per="100"/>
+
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n m="ex" t="3" a="85" pan="5" per="30"/>
+			<n m="ex" t="2" a="80" pan="5" per="50"/>
+			<n m="ex" t="13" a="80" pan="10" per="65"/>
+			<n m="ex" t="6" a="90" pan="5" per="85"/>
+			<n m="ex" t="4" a="90" pan="5" per="100"/>		
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n m="ex" t="3" a="90" pan="5" per="30"/>
+			<n m="ex" t="2" a="90" pan="5" per="50"/>
+			<n m="ex" t="13" a="90" pan="10" per="65"/>
+			<n m="ex" t="6" a="95" pan="5" per="85"/>
+			<n m="ex" t="4" a="95" pan="5" per="100"/>
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n m="ex" t="3" a="90" pan="5" per="30"/>
+			<n m="ex" t="2" a="90" pan="5" per="50"/>
+			<n m="ex" t="13" a="90" pan="10" per="65"/>
+			<n m="ex" t="6" a="95" pan="5" per="85"/>
+			<n m="ex" t="4" a="95" pan="5" per="100"/>
+
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n m="ex" t="3" a="90" pan="5" per="30"/>
+			<n m="ex" t="2" a="90" pan="5" per="50"/>
+			<n m="ex" t="13" a="90" pan="10" per="65"/>
+			<n m="ex" t="6" a="95" pan="5" per="85"/>
+			<n m="ex" t="4" a="95" pan="5" per="100"/>
+		</val1>
+	</val0>
+</expression>
+<lids>
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0>
+		<val1 per="90" fn="multipoint">
+			<n l="100" r="100" per="15"/>
+			<n l="10" r="10" pan="10" per="100"/>
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n l="100" r="100" per="50"/>
+			<n l="15" r="15" pan="5" per="85"/>
+			<n l="20" r="0" pan="5" per="100"/>
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n l="100" r="100" per="50"/>
+			<n l="20" r="15" pan="5" per="85"/>
+			<n l="20" r="0" pan="5" per="100"/>
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n l="100" r="100" per="50"/>
+			<n l="20" r="15" pan="5" per="85"/>
+			<n l="20" r="0" pan="5" per="100"/>
+		</val1>
+		<val1 per="90" fn="multipoint">
+			<n l="100" r="100" per="50"/>
+			<n l="20" r="15" pan="5" per="85"/>
+			<n l="20" r="0" pan="5" per="100"/>
+		</val1>
+	</val0>
+	</lids>	
+	<brows>
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0>
+		<val1 per="100" fn="multipoint">
+			<n dl="0" dr="0" il="0" ir="0" ul="80" ur="80" pan="20" per="35"/>
+			<n dl="0" dr="0" il="0" ir="0" ul="90" ur="0" pan="10" per="55"/>
+			<n dl="0" dr="90" il="0" ir="0" ul="90" ur="0" pan="10" per="75"/>
+			<n dl="100" dr="0" il="0" ir="0" ul="90" ur="0" pan="100" per="100"/>
+		</val1>
+		<val1 per="40" fn="multipoint">
+			<n dl="0" dr="80" il="0" ir="0" ul="0" ur="0" pan="20" per="20"/>
+			<n dl="50" dr="50" il="50" ir="50" ul="0" ur="60" pan="10" per="40"/>
+			<n dl="50" dr="50" il="50" ir="50" ul="60" ur="0" pan="10" per="55"/>
+			<n dl="0" dr="0" il="0" ir="0" ul="90" ur="90" pan="10" per="70"/>
+			<n dl="0" dr="0" il="25" ir="25" ul="60" ur="60" pan="10" per="85"/>
+			<n dl="0" dr="0" il="50" ir="50" ul="50" ur="50" pan="20" per="100"/>
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n dl="80" dr="80" il="80" ir="80" ul="0" ur="0" pan="10" per="20"/>
+			<n dl="60" dr="60" il="40" ir="40" ul="0" ur="60" pan="5" per="40"/>
+			<n dl="40" dr="40" il="80" ir="80" ul="0" ur="0" pan="5" per="60"/>
+			<n dl="0" dr="0" il="0" ir="0" ul="95" ur="95" pan="5" per="80"/>
+			<n dl="0" dr="0" il="25" ir="25" ul="80" ur="80" pan="5" per="100"/>
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n dl="80" dr="80" il="80" ir="80" ul="0" ur="0" pan="10" per="20"/>
+			<n dl="60" dr="60" il="40" ir="40" ul="0" ur="60" pan="5" per="40"/>
+			<n dl="40" dr="40" il="80" ir="80" ul="0" ur="0" pan="5" per="60"/>
+			<n dl="0" dr="0" il="0" ir="0" ul="95" ur="95" pan="5" per="80"/> 
+			<n dl="0" dr="0" il="25" ir="25" ul="80" ur="80" pan="5" per="100"/>
+		</val1>
+		<val1 per="60" fn="multipoint">
+			<n dl="80" dr="80" il="80" ir="80" ul="0" ur="0" pan="10" per="20"/>
+			<n dl="60" dr="60" il="40" ir="40" ul="0" ur="60" pan="5" per="40"/>
+			<n dl="40" dr="40" il="80" ir="80" ul="0" ur="0" pan="5" per="60"/>
+			<n dl="0" dr="0" il="0" ir="0" ul="95" ur="95" pan="5" per="80"/>
+			<n dl="0" dr="0" il="25" ir="25" ul="80" ur="80" pan="5" per="100"/>
+		</val1>
+	</val0>
+	</brows>
+	<squint>
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0>
+		<val1 per="40" fn="multipoint">
+			<n l="60" r="60" pan="60" per="100"/>
+		</val1>
+		<val1 per="40" fn="multipoint">
+			<n l="60" r="60" pan="60" per="100"/>
+		</val1>
+		<val1 per="40" fn="multipoint">
+			<n l="60" r="60" pan="60" per="100"/>
+		</val1>
+		<val1 per="40" fn="multipoint">
+			<n l="60" r="60" pan="60" per="100"/>
+		</val1>
+		<val1 per="40" fn="multipoint">
+			<n l="60" r="60" pan="60" per="100"/>
+		</val1>
+	</val0>
+	</squint>	
+	<mouth>
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0 />
+	<val0>
+		<val1 per="90" fn="multipoint">
+				<n per="20">
+					<ph t="1" a="10" pan="5"/>		
+				</n>
+				<n per="40">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="5" a="10" pan="5"/>		
+				</n>	
+				<n per="60">
+					<ph t="4" a="15" pan="5"/>	
+					<ph t="5" a="15" pan="5"/>		
+				</n>	
+				<n per="80">
+					<ph t="10" a="55" pan="10"/>		
+				</n>	
+				<n per="100">
+					<ph t="14" a="35" pan="10"/>		
+				</n>	
+		</val1>
+		<val1 per="90" fn="multipoint">
+				<n per="40">
+					<ph t="1" a="20" pan="20"/>		
+				</n>
+				<n per="60">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="15" pan="10"/>	
+					<ph t="5" a="15" pan="10"/>		
+				</n>	
+				<n per="80">
+					<ph t="6" a="55" pan="10"/>		
+				</n>	
+				<n per="100">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="10" pan="5"/>	
+					<ph t="5" a="25" pan="10"/>		
+				</n>	
+		</val1>
+		<val1 per="90" fn="multipoint">
+				<n per="40">
+					<ph t="1" a="20" pan="20"/>		
+				</n>
+				<n per="60">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="15" pan="10"/>	
+					<ph t="5" a="15" pan="10"/>		
+				</n>	
+				<n per="80">
+					<ph t="6" a="55" pan="10"/>		
+				</n>	
+				<n per="100">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="10" pan="5"/>	
+					<ph t="5" a="25" pan="10"/>		
+				</n>	
+		</val1>
+		<val1 per="90" fn="multipoint">
+				<n per="40">
+					<ph t="1" a="20" pan="20"/>		
+				</n>
+				<n per="60">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="15" pan="10"/>	
+					<ph t="5" a="15" pan="10"/>		
+				</n>	
+				<n per="80">
+					<ph t="6" a="55" pan="10"/>		
+				</n>	
+				<n per="100">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="10" pan="5"/>	
+					<ph t="5" a="25" pan="10"/>		
+				</n>	
+		</val1>
+		<val1 per="90" fn="multipoint">
+				<n per="40">
+					<ph t="1" a="20" pan="20"/>		
+				</n>
+				<n per="60">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="15" pan="10"/>	
+					<ph t="5" a="15" pan="10"/>		
+				</n>	
+				<n per="80">
+					<ph t="6" a="55" pan="10"/>		
+				</n>	
+				<n per="100">
+					<ph t="1" a="10" pan="5"/>	
+					<ph t="4" a="10" pan="5"/>	
+					<ph t="5" a="25" pan="10"/>		
+				</n>	
+		</val1>
+	</val0>
+	</mouth>	
+</cycle>
+</idn>

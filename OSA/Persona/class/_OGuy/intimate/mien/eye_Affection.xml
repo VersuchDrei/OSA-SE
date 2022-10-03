@@ -1,0 +1,108 @@
+<classdata id="eye_Affection">
+<montage>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+		<facerelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+			<actionrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+				<bodyrelation>
+					<mien focus="face" per="100"/>
+				</bodyrelation>
+			</actionrelation>
+		</facerelation>
+</montage>                     
+</classdata>

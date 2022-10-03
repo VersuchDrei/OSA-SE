@@ -1,0 +1,40 @@
+<classdata id="toSpank">
+
+
+<scared>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>	
+</scared>
+<angry>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</angry>
+<bored>	
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</bored>	
+<neutral>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>	
+</neutral>
+<prebad>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</prebad>
+<pre>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</pre>	
+<pregood>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</pregood>	
+<sex>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</sex>	
+<sexgood>
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="sharppleasure" h1="" h2="" b0="" b1="" b2=""/>
+</sexgood>	
+<sexbad>
+<ex test="TEST" pain0="" pain1="" pain2=""/>
+</sexbad>
+<sexfrenzy>
+<ex pain0="" pain1="" pain2=""/>
+</sexfrenzy>	
+<sexfatigue>				
+<ex s0="" s1="" s2="" m0="" m1="" m2="" h0="" h1="" h2="" b0="" b1="" b2=""/>
+</sexfatigue>
+</classdata>

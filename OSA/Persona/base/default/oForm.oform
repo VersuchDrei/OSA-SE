@@ -1,0 +1,161 @@
+<form id="_OGal" name="OGal" type="vo" gender="F" mod="OSA.esm" formid="0044A2" >
+<bored0 indx="0" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<bored1 indx="1" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<bored2 indx="2" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<curious0 indx="3" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<curious1 indx="4" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<cuirous2 indx="5" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<jolt0 indx="6" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<jolt1 indx="7" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<jolt2 indx="8" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<pain0 indx="9" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<pain1 indx="10" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<pain2 indx="11" ti="1" lsync="shape" lshape="a0e0i0o0u0"/> 
+<sharp0 indx="12" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<sharp1 indx="13" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<sharp2 indx="14" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	 	
+</form>
+
+
+<form id="_OGuy" name="OGuy" type="vo" gender="M" mod="OSA.esm" formid="0044BB" >
+<bored0 indx="0" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<bored1 indx="1" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<bored2 indx="2" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<curious0 indx="3" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<curious1 indx="4" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<cuirous2 indx="5" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<jolt0 indx="6" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<jolt1 indx="7" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<jolt2 indx="8" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<pain0 indx="9" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<pain1 indx="10" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<pain2 indx="11" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>   
+<sharp0 indx="12" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<sharp1 indx="13" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<sharp2 indx="14" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>   	
+</form>
+
+
+<form id="_OGal" name="OGal" type="ivo" gender="F" mod="OSA.esm" formid="00231A" >
+<breath0 indx="0" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<breath1 indx="1" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<breath2 indx="2" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<effort0 indx="3" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<effort1 indx="4" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<effort2 indx="5" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<subtle0 indx="6" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<subtle1 indx="7" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<subtle2 indx="8" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<medium0 indx="9" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<medium1 indx="10" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<medium2 indx="11" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<loud0 indx="12" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>	
+<loud1 indx="13" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<loud2 indx="14" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  		
+<frenzy0 indx="15" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<frenzy1 indx="16" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<frenzy2 indx="17" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<flavor0 indx="18" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<flavor1 indx="19" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<flavor2 indx="20" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+</form>
+
+
+<form id="_OGuy" name="OGuy" type="ivo" gender="M" mod="OSA.esm" formid="0028F3" >
+<breath0 indx="0" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<breath1 indx="1" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<breath2 indx="2" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<effort0 indx="3" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<effort1 indx="4" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<effort2 indx="5" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<subtle0 indx="6" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>	
+<subtle1 indx="7" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<subtle2 indx="8" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<medium0 indx="9" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>
+<medium1 indx="10" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<medium2 indx="11" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<loud0 indx="12" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>	
+<loud1 indx="13" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<loud2 indx="14" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  		
+<frenzy0 indx="15" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<frenzy1 indx="16" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<frenzy2 indx="17" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+<flavor0 indx="18" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<flavor1 indx="19" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  
+<flavor2 indx="20" ti="1" lsync="shape" lshape="a0e0i0o0u0"/>  	
+</form>
+
+<form id="_OGal" name="OGal" type="ivos" gender="F" mod="OSA.esm" formid="00231B" >
+<lips0 indx="0" ti="1"/>
+<lips1 indx="1" ti="1"/>
+<lips2 indx="2" ti="1"/>
+<throat0 indx="3" ti="1"/>
+<throat1 indx="4" ti="1"/>
+<throat2 indx="5" ti="1"/>
+<throatf0 indx="6" ti="1"/>
+<throatf1 indx="7" ti="1"/>
+<throatf2 indx="8" ti="1"/>
+<effort0 indx="9" ti="1"/>
+<effort1 indx="10" ti="1"/>
+<effort2 indx="11" ti="1"/> 
+<subtle0 indx="12" ti="1"/>
+<subtle1 indx="13" ti="1"/>
+<subtle2 indx="14" ti="1"/> 
+<medium0 indx="15" ti="1"/>
+<medium1 indx="16" ti="1"/>
+<medium2 indx="17" ti="1"/>
+<loud0 indx="18" ti="1"/>
+<loud1 indx="19" ti="1"/> 
+<loud2 indx="20" ti="1"/> 
+<flavor0 indx="21" ti="1"/>
+<flavor1 indx="22" ti="1"/> 
+<flavor2 indx="23" ti="1"/> 
+<frenzy0 indx="24" ti="1"/>
+<frenzy1 indx="25" ti="1"/>
+<frenzy2 indx="26" ti="1"/>
+<gag0 indx="27" ti="1"/>
+<gag1 indx="28" ti="1"/>
+<gag2 indx="29" ti="1"/>
+
+</form>
+
+
+<form id="_OGuy" name="OGuy" type="ivos" gender="M" mod="OSA.esm" formid="00231A" >
+<subtle0 indx="0" ti="1"/>
+<subtle1 indx="0" ti="1"/> 
+<medium0 indx="0" ti="1"/>
+<medium1 indx="0" ti="1"/>
+<loud0 indx="0" ti="1"/>
+<loud1 indx="0" ti="1"/> 
+<flavor0 indx="0" ti="1"/>
+<flavor1 indx="0" ti="1"/> 
+<frenzy0 indx="0" ti="1"/>
+<frenzy1 indx="0" ti="1"/>
+<gag0 indx="0" ti="1"/>
+<gag1 indx="0" ti="1"/>
+<throat0 indx="0" ti="1"/>
+<throat1 indx="0" ti="1"/>
+</form>
+
+<form id="_OGuy" name="OGuy" type="wvo" gender="M" mod="OSA.esm" formid="003461" >
+<build0 indx="0" ti=".25" lsync="shape" lshape="a0e0i0o0u0"/>
+<release0 indx="1" ti=".25" lsync="shape" lshape="a0e0i0o0u0"/> 
+</form>
+
+<form id="_FEvenTone" name="FemEvenToned" type="wvo" gender="F" mod="OSA.esm" formid="003458" >
+<build0 indx="0" ti=".25" lsync="shape" lshape="a0e0i0o0u0"/>
+<release0 indx="1" ti=".25" lsync="shape" lshape="a0e0i0o0u0"/> 
+</form>
+
+<form id="_OBod" name="OBody" type="ibo" gender="U" mod="OSA.esm" formid="002EC4" >
+<suite pussydry0="0" pussydry1="1" pussydry2="2" pussymoist0="3" pussymoist1="4" pussymoist2="5" pussywet0="6" pussywet1="7" pussywet2="8" assimpactdry0="9" assimpactdry1="10" assimpactdry2="11" assimpactmoist0="12" assimpactmoist1="13" assimpactmoist2="14" assimpactwet0="15" assimpactwet1="16" assimpactwet2="17" bodyimpactdry0="18" bodyimpactdry1="19" bodyimpactdry2="20" bodyimpactmoist0="21" bodyimpactmoist1="22" bodyimpactmoist2="23" bodyimpactwet0="24" bodyimpactwet1="25" bodyimpactwet2="26" softimpactdry0="27" softimpactdry1="28" softimpactdry2="29" softimpactmoist0="30" softimpactmoist1="31" softimpactmoist2="32" softimpactwet0="33" softimpactwet1="34" softimpactwet2="35" />
+</form>
+
+<form id="_OSpank" name="OSpank" type="spank" gender="U" mod="OSA.esm" formid="00234D"> 
+<suite slap0="4" slap1="5" slap2="6" slap3="7" direct0="0" direct1="1" direct2="2" direct3="3"/>
+</form>
+
+<form id="_OSlap" name="OSlap" type="slap" gender="U" mod="OSA.esm" formid="00231A" >
+<subtle0 indx="0" ti="1"/>
+</form>
+
