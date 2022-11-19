@@ -75,7 +75,12 @@ event onAlignTo(string eventName, string actorLocHub, float alignStyle, Form sen
 int style = alignStyle as int
 	if style == 0
 		align = true
-		posObj.moveTo(actra[actorLocHub as int])
+		OsexIntegrationMain OStim = OUtils.GetOStim()
+    	If OStim.UsingFurniture() && !OStim.UsingBed() && OStim.IsActorInvolved(Actra[0])
+    		posObj.MoveTo(OStim.GetBed())
+    	Else
+        	posObj.moveTo(actra[actorLocHub as int])
+    	EndIf
 		int count = 0
 		while count < totalActra
 		;delay To see if it fixes crash
